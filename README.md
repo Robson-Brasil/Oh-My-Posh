@@ -46,44 +46,44 @@
 <h1 align= align="center">catppuccin</h1>
 <h1 align="center"><img width="100%" src="./assets/catppuccin.png"/></h1>
 
-catppuccin_frappe
-catppuccin_frappe
+<h1 align= align="center">catppuccin_frappe</h1>
+<h1 align="center"><img width="100%" src="./assets/catppuccin_frappe.png"/></h1>
 
-catppuccin_latte
-catppuccin_latte
+<h1 align= align="center">catppuccin_latte</h1>
+<h1 align="center"><img width="100%" src="./assets/catppuccin_latte.png"/></h1>
 
-catppuccin_macchiato
-catppuccin_macchiato
+<h1 align= align="center">catppuccin_macchiato</h1>
+<h1 align="center"><img width="100%" src="./assets/catppuccin_macchiato.png"/></h1>
 
-catppuccin_mocha
-catppuccin_mocha
+<h1 align= align="center">catppuccin_mocha</h1>
+<h1 align="center"><img width="100%" src="./assets/catppuccin_mocha.png"/></h1>
 
-cert
-cert
+<h1 align= align="center">cert</h1>
+<h1 align="center"><img width="100%" src="./assets/cert.png"/></h1>
 
-chips
-chips
+<h1 align= align="center">chips</h1>
+<h1 align="center"><img width="100%" src="./assets/chips.png"/></h1>
 
-cinnamon
-cinnamon
+<h1 align= align="center">cinnamon</h1>
+<h1 align="center"><img width="100%" src="./assets/cinnamon.png"/></h1>
 
-clean-detailed
-clean-detailed
+<h1 align= align="center">clean-detailed</h1>
+<h1 align="center"><img width="100%" src="./assets/clean-detailed.png"/></h1>
 
-cloud-context
-cloud-context
+<h1 align= align="center">cloud-context</h1>
+<h1 align="center"><img width="100%" src="./assets/cloud-context.png"/></h1>
 
-cloud-native-azure
-cloud-native-azure
+<h1 align= align="center">cloud-native-azure</h1>
+<h1 align="center"><img width="100%" src="./assets/cloud-native-azure.png"/></h1>
 
-cobalt2
-cobalt2
+<h1 align= align="center">cobalt2</h1>
+<h1 align="center"><img width="100%" src="./assets/cobalt2.png"/></h1>
 
-craver
-craver
+<h1 align= align="center">craver</h1>
+<h1 align="center"><img width="100%" src="./assets/craver.png"/></h1>
 
-darkblood
-darkblood
+<h1 align= align="center">darkblood</h1>
+<h1 align="center"><img width="100%" src="./assets/darkblood.png"/></h1>
 
 default
 default
