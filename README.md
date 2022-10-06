@@ -40,8 +40,8 @@
 <h1 align= align="center">bubblesline</h1>
 <h1 align="center"><img width="100%" src="./assets/bubblesline.png"/></h1>
 
-capr4n
-capr4n
+<h1 align= align="center">capr4n</h1>
+<h1 align="center"><img width="100%" src="./assets/capr4n.png"/></h1>
 
 catppuccin
 catppuccin
