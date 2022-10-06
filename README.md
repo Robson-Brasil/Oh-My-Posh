@@ -7,41 +7,38 @@
 <h1 align= align="center">agnoster.minimal</h1>
 <h1 align="center"><img width="100%" src="./assets/agnoster.minimal.png"/></h1>
 
-agnoster
-agnoster
+<h1 align= align="center">agnosterplus</h1>
+<h1 align="center"><img width="100%" src="./assets/agnosterplus.png"/></h1>
 
-agnosterplus
-agnosterplus
+<h1 align= align="center">aliens</h1>
+<h1 align="center"><img width="100%" src="./assets/aliens.png"/></h1>
 
-aliens
-aliens
+<h1 align= align="center">amro</h1>
+<h1 align="center"><img width="100%" src="./assets/amro.png"/></h1>
 
-amro
-amro
+<h1 align= align="center">atomic</h1>
+<h1 align="center"><img width="100%" src="./assets/atomic.png"/></h1>
 
-atomic
-atomic
+<h1 align= align="center">atomicBit</h1>
+<h1 align="center"><img width="100%" src="./assets/atomicBit.png"/></h1>
 
-atomicBit
-atomicBit
+<h1 align= align="center">avit</h1>
+<h1 align="center"><img width="100%" src="./assets/avit.png"/></h1>
 
-avit
-avit
+<h1 align= align="center">blue-owl</h1>
+<h1 align="center"><img width="100%" src="./assets/blue-owl.png"/></h1>
 
-blue-owl
-blue-owl
+<h1 align= align="center">blueish</h1>
+<h1 align="center"><img width="100%" src="./assets/blueish.png"/></h1>
 
-blueish
-blueish
+<h1 align= align="center">bubbles</h1>
+<h1 align="center"><img width="100%" src="./assets/bubbles.png"/></h1>
 
-bubbles
-bubbles
+<h1 align= align="center">bubblesextra</h1>
+<h1 align="center"><img width="100%" src="./assets/bubblesextra.png"/></h1>
 
-bubblesextra
-bubblesextra
-
-bubblesline
-bubblesline
+<h1 align= align="center">bubblesline</h1>
+<h1 align="center"><img width="100%" src="./assets/bubblesline.png"/></h1>
 
 capr4n
 capr4n
