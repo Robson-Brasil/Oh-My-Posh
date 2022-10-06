@@ -1,4 +1,4 @@
-<h1 align="center"><img width="75%" src="./assets/1_shell.png"/></h1>
+<h1 align="center"><img width="75%" src="./assets/shell.png"/></h1>
 
 M365Princess
 M365Princess
