@@ -43,8 +43,8 @@
 <h1 align= align="center">capr4n</h1>
 <h1 align="center"><img width="100%" src="./assets/capr4n.png"/></h1>
 
-catppuccin
-catppuccin
+<h1 align= align="center">catppuccin</h1>
+<h1 align="center"><img width="100%" src="./assets/catppuccin.png"/></h1>
 
 catppuccin_frappe
 catppuccin_frappe
