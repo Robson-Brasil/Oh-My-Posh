@@ -85,8 +85,8 @@
 <h1 align= align="center">darkblood</h1>
 <h1 align="center"><img width="100%" src="./assets/darkblood.png"/></h1>
 
-default
-default
+<h1 align= align="center">default</h1>
+<h1 align="center"><img width="100%" src="./assets/default.png"/></h1>
 
 devious-diamonds
 devious-diamonds
