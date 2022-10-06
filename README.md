@@ -4,11 +4,8 @@
 <h1 align= align="center">M365Princess</h1>
 <h1 align="center"><img width="100%" src="./assets/M365Princess.png"/></h1>
 
-M365Princess
-M365Princess
-
-agnoster.minimal
-agnoster.minimal
+<h1 align= align="center">agnoster.minimal</h1>
+<h1 align="center"><img width="100%" src="./assets/agnoster.minimal.png"/></h1>
 
 agnoster
 agnoster
