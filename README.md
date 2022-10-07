@@ -88,11 +88,11 @@
 <h1 align= align="center">default</h1>
 <h1 align="center"><img width="100%" src="./assets/default.png"/></h1>
 
-devious-diamonds
-devious-diamonds
+<h1 align= align="center">devious-diamonds</h1>
+<h1 align="center"><img width="100%" src="./assets/devious-diamonds.png"/></h1>
 
-di4am0nd
-di4am0nd
+<h1 align= align="center">di4am0nd</h1>
+<h1 align="center"><img width="100%" src="./assets/di4am0nd.png"/></h1>
 
 dracula
 dracula
